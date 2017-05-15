@@ -1,0 +1,259 @@
+{
+	"gallery":[
+		{
+			"coverphoto":"https://cdn.pixabay.com/photo/2016/05/11/18/31/historical-1386147_960_720.jpg",
+			"id":1,
+			"name":"Beautiful People"
+		},
+		{
+			"coverphoto":"https://cdn.pixabay.com/photo/2015/10/13/03/39/fashion-985556__340.jpg",
+			"id":2,
+			"name":"Vacation"
+		},
+		{
+			"coverphoto":"https://cdn.pixabay.com/photo/2010/12/13/10/34/santa-claus-2918__340.jpg",
+			"id":3,
+			"name":"Christmas"
+		},
+		{
+			"coverphoto":"https://cdn.pixabay.com/photo/2016/08/05/18/12/pumpkins-1572864__340.jpg",
+			"id":4,
+			"name":"Halloween"
+		},
+		{
+			"coverphoto":"https://cdn.pixabay.com/photo/2015/03/08/17/25/musician-664432__340.jpg",
+			"id":5,
+			"name":"Battle of the Bands"
+		},
+		{
+			"coverphoto":"https://cdn.pixabay.com/photo/2017/04/28/17/33/engagement-2268947__340.jpg",
+			"id":6,
+			"name":"Honey Moon"
+		}
+	],
+
+	"photos":[
+		{
+			"id":1,
+			"albumid":1,
+			"name":"Man of the Year",
+			"url":"https://cdn.pixabay.com/photo/2016/10/15/05/10/monk-1741931__480.jpg"
+		},
+		{
+			"id":2,
+			"albumid":1,
+			"name":"Woman of the Year",
+			"url":"https://cdn.pixabay.com/photo/2016/05/11/18/33/historical-1386161__340.jpg"
+		},
+		{
+			"id":3,
+			"albumid":1,
+			"name":"Runner Up Man",
+			"url":"https://cdn.pixabay.com/photo/2016/05/11/18/33/historical-1386164__340.jpg"
+		},
+		{
+			"id":4,
+			"albumid":1,
+			"name":"Runner Up Woman",
+			"url":"https://cdn.pixabay.com/photo/2016/05/11/18/32/historical-1386153__340.jpg"
+		},
+		{
+			"id":5,
+			"albumid":1,
+			"name":"Honorable Mention",
+			"url":"https://cdn.pixabay.com/photo/2016/05/11/18/32/historical-1386156__340.jpg"
+		},
+		{
+			"id":6,
+			"albumid":1,
+			"name":"Ms & Mr Congeniality",
+			"url":"https://cdn.pixabay.com/photo/2017/05/08/08/18/male-2294743__480.jpg"
+		},
+		{
+			"id":7,
+			"albumid":2,
+			"name":"SNorkeling",
+			"url":"https://cdn.pixabay.com/photo/2012/02/23/08/57/dive-15840_960_720.jpg"
+		},
+		{
+			"id":8,
+			"albumid":2,
+			"name":"Diving old school",
+			"url":"https://cdn.pixabay.com/photo/2014/06/27/08/49/underwater-378216_960_720.jpg"
+		},
+		{
+			"id":9,
+			"albumid":2,
+			"name":"The Happy Couple",
+			"url":"https://cdn.pixabay.com/photo/2013/06/08/17/09/divers-123286_960_720.jpg"
+		},
+		{
+			"id":10,
+			"albumid":2,
+			"name":"The Love Boat",
+			"url":"https://cdn.pixabay.com/photo/2013/05/28/03/28/cruise-114152__340.jpg"
+		},
+		{
+			"id":11,
+			"albumid":2,
+			"name":"Cruising in the NorthWest",
+			"url":"https://cdn.pixabay.com/photo/2016/08/11/23/55/redwood-national-park-1587301__340.jpg"
+		},
+		{
+			"id":12,
+			"albumid":2,
+			"name":"First time",
+			"url":"https://cdn.pixabay.com/photo/2016/10/20/17/40/travel-1756149__480.jpg"
+		},
+		{
+			"id":13,
+			"albumid":2,
+			"name":"Kings Landing",
+			"url":"https://cdn.pixabay.com/photo/2014/11/01/18/46/dubrovnik-512798_960_720.jpg"
+		},
+		{
+			"id":14,
+			"albumid":3,
+			"name":"Adorable",
+			"url":"https://cdn.pixabay.com/photo/2012/03/04/00/36/baby-21971__340.jpg"
+		},
+		{
+			"id":15,
+			"albumid":3,
+			"name":"Our Little Elf",
+			"url":"https://cdn.pixabay.com/photo/2013/02/21/19/02/baby-boy-84489__340.jpg"
+		},
+		{
+			"id":16,
+			"albumid":3,
+			"name":"Loving the New Socks",
+			"url":"https://cdn.pixabay.com/photo/2017/04/25/19/19/christmas-2260605__340.jpg"
+		},
+		{
+			"id":17,
+			"albumid":3,
+			"name":"Polar Express",
+			"url":"https://cdn.pixabay.com/photo/2016/12/18/17/48/polar-express-1916376__340.jpg"
+		},
+		{
+			"id":18,
+			"albumid":3,
+			"name":"First Christmas",
+			"url":"https://cdn.pixabay.com/photo/2017/01/15/16/26/baby-1982034__340.jpg"
+		},
+		{
+			"id":19,
+			"albumid":3,
+			"name":"Santa",
+			"url":"https://cdn.pixabay.com/photo/2016/12/23/18/07/christmas-1927700__340.jpg"
+		},
+		{
+			"id":20,
+			"albumid":4,
+			"name":"Good Zombie",
+			"url":"https://cdn.pixabay.com/photo/2014/09/19/22/19/zombie-453093__340.jpg"
+		},
+		{
+			"id":21,
+			"albumid":4,
+			"name":"Wait for It!",
+			"url":"https://cdn.pixabay.com/photo/2013/11/28/09/57/skull-219794__340.jpg"
+		},
+		{
+			"id":22,
+			"albumid":4,
+			"name":"Silly Knife",
+			"url":"https://cdn.pixabay.com/photo/2015/09/30/00/12/halloween-964775__340.jpg"
+		},
+		{
+			"id":23,
+			"albumid":4,
+			"name":"Zombies",
+			"url":"https://cdn.pixabay.com/photo/2016/10/07/01/27/man-1720470__340.jpg"
+		},
+		{
+			"id":24,
+			"albumid":4,
+			"name":"Skull Candy",
+			"url":"https://cdn.pixabay.com/photo/2016/11/01/07/16/halloween-1787545__340.jpg"
+		},
+		{
+			"id":25,
+			"albumid":4,
+			"name":"Killer Makeup",
+			"url":"https://cdn.pixabay.com/photo/2016/10/22/22/32/make-upceremonial-1761844__340.jpg"
+		},
+		{
+			"id":26,
+			"albumid":5,
+			"name":"The Beginning",
+			"url":"https://cdn.pixabay.com/photo/2015/11/22/19/04/crowd-1056764__340.jpg"
+		},
+		{
+			"id":27,
+			"albumid":5,
+			"name":"Skillet",
+			"url":"https://cdn.pixabay.com/photo/2017/04/11/20/16/skillet-2222711__340.jpg"
+		},
+		{
+			"id":28,
+			"albumid":5,
+			"name":"Free Concert",
+			"url":"https://cdn.pixabay.com/photo/2017/03/24/13/10/concert-2171166__340.jpg"
+		},
+		{
+			"id":29,
+			"albumid":5,
+			"name":"Great Solo",
+			"url":"https://cdn.pixabay.com/photo/2015/05/15/14/26/musician-768489__340.jpg"
+		},
+		{
+			"id":30,
+			"albumid":5,
+			"name":"Great Singer",
+			"url":"https://cdn.pixabay.com/photo/2015/03/26/09/42/singer-690117__340.jpg"
+		},
+		{
+			"id":31,
+			"albumid":5,
+			"name":"Great Drummer",
+			"url":"https://cdn.pixabay.com/photo/2015/03/28/01/48/drummer-695481__340.jpg"
+		},
+		{
+			"id":32,
+			"albumid":6,
+			"name":"Walking along the beach",
+			"url":"https://cdn.pixabay.com/photo/2017/05/02/15/00/sunset-2278403__340.jpg"
+		},
+		{
+			"id":33,
+			"albumid":6,
+			"name":"Loving my new sandals",
+			"url":"https://cdn.pixabay.com/photo/2017/04/04/23/09/sandals-2203402__340.jpg"
+		},
+		{
+			"id":34,
+			"albumid":6,
+			"name":"Some alone time",
+			"url":"https://cdn.pixabay.com/photo/2017/03/27/12/46/depth-of-field-2178484__340.jpg"
+		},
+		{
+			"id":35,
+			"albumid":6,
+			"name":"Sunrise!",
+			"url":"https://cdn.pixabay.com/photo/2017/04/24/20/17/morning-2257689__340.jpg"
+		},
+		{
+			"id":36,
+			"albumid":6,
+			"name":"Made some new Friends",
+			"url":"https://cdn.pixabay.com/photo/2017/04/11/00/00/ape-2220230__340.jpg"
+		},
+		{
+			"id":37,
+			"albumid":6,
+			"name":"Taking in the sights",
+			"url":"https://cdn.pixabay.com/photo/2017/04/29/23/44/america-2271828__340.jpg"
+		}
+	]
+}

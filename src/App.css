@@ -1,24 +1,90 @@
-.App {
-  text-align: center;
+#container {
+	width:1000px;
+	margin:auto;
+	border:1px solid #ccc;
+	padding:0;
 }
 
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 80px;
+.mainheading, .albumheading{
+	text-align:center;
+	padding:10px;
+	margin:0;
 }
 
-.App-header {
-  background-color: #222;
-  height: 150px;
-  padding: 20px;
-  color: white;
+.mainheading{
+	background:#444;
+	color:#eee;
 }
 
-.App-intro {
-  font-size: large;
+.albumheading{
+	color:#333;
 }
 
-@keyframes App-logo-spin {
-  from { transform: rotate(0deg); }
-  to { transform: rotate(360deg); }
+.grid {
+	display:flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	align-items: stretch;
+}
+
+.grid div {
+	margin:25px;
+	display: flex;
+	height: 300px;
+	align-items: flex-end;
+
+}
+
+.grid img{
+	max-height: 275px;
+	max-width: 200px;
+	border-style: inset;
+}
+
+.name {
+	display: block;
+	background:#444;
+	color:#eee;
+	text-align: center;
+	padding:10px 0;
+	text-decoration: none;
+}
+
+.albumPage {
+	display: flex;
+}
+
+.nav {
+	width:100px;
+	padding-top: 80px;
+	background-color: #808080;
+}
+
+.nav a {
+	display:block;
+	margin:20px 0;
+	text-decoration: none;
+	color:white;
+}
+
+.photoHeader {
+	text-align:center;
+	padding:10px;
+	margin:0;
+}
+
+.photoView img {
+	border-style:inset;
+	display: flex;
+	justify-content: space-around;
+	margin:auto;
+	min-height: 500px;
+	min-width: 300px;
+
+}
+
+.photoTitle {
+	display: block;
+	text-align: center;
+	text-decoration: none;
 }
